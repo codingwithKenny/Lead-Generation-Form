@@ -10,7 +10,6 @@ The interface features a sleek **glassmorphism design**, **smooth loader animati
 ![UI Design Screenshot](./Image/image.png)
 
 
----
 
 ## ✨ Features
 
